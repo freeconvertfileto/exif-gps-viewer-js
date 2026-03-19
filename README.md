@@ -2,7 +2,7 @@
 
 Parse EXIF metadata and GPS coordinates from JPEG images using a custom binary parser, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/image-tools/exif-gps-viewer
+**Live Demo:** https://file-converter-free.com/en/image-tools/exif-gps-viewer-online
 
 ## How It Works
 
